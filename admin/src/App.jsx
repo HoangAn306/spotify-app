@@ -6,7 +6,7 @@ import AddSong from './pages/AddSong';
 import AddAlbum from './pages/AddAlbum';
 import ListSong from './pages/ListSong';
 import ListAlbum from './pages/ListAlbum';
-import Sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 export const url = 'https://spotify-app-1-tekc.onrender.com'
 const App = () => {
